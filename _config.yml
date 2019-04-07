@@ -23,7 +23,7 @@ description: Bolos e Doces gourmet!
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "Saiba mais"
+  About Me: "aboutme"
   Recursos:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
