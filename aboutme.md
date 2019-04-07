@@ -1,15 +1,16 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Torres Bolos Doces
+subtitle: Da Torres bolos e doces para a sua casa e família
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Somos uma fabricante de bolos e doces gourmet e artesanais sediada na cidade de São José dos Campos-SP desde agosto de 2015.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Produzimos doces com excelência e muito amor. Confira as nossas rede sociais para ver as fotos dos nossos doces que adoçaram a vida de diversos paulistanos.
 
-What else do you need?
+Atenciosamente,
+
+Família Torres Bolos e Doces
 
 ### my history
 
