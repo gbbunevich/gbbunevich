@@ -2,7 +2,7 @@
 layout: post
 title: Casamentos com Torres Bolos e Doces
 subtitle: Oferecemos uma linha completa de doces finos, bolos e tortas para a sua festa de casamento.
-bigimg: /img/casamento.jpg
+bigimg: /img/2DEC (12).jpg
 tags: [books, test]
 ---
 
