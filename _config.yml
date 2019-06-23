@@ -93,10 +93,10 @@ social-network-links:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: false
+  #twitter: false
   facebook: true
-  google: false
-  linkedin: false
+  #google: false
+  #linkedin: false
   instagram: true
   
 
