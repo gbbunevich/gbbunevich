@@ -22,9 +22,11 @@ description: Para adoçar a sua vida!
 navbar-links:
   Sobre Min: "aboutme"
   Recursos:
-    - Insta: "https://www.instagram.com/?hl=en"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-  Author's home: "http://deanattali.com"
+    - YouTube: "https://www.youtube.com/user/gbbunevich/"
+    - Casamentos: "https://www.facebook.com/pg/Torres.bolosedoces/posts/?ref=page_internal"
+    - Dia dos Namorados: "https://www.facebook.com/Torres.bolosedoces/photos/pcb.827306504322647/827306274322670/?type=3&theater"
+    - eBook: "https://www.youtube.com/user/gbbunevich/"
+  Nos siga no Instagram: "https://www.instagram.com/torres.bolosedoces/"
 
 
 # Image to show in the navigation bar - image must be a square (width = height)
