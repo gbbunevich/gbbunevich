@@ -9,6 +9,7 @@ comments: true
 Nosso foco é atingir um elevado nível de qualidade. 
 
 **Tabela de preços**
+
 | Tamanho | Sabor | Preço |
 | :------ |:--- | :--- |
 | Pequena | Chocolate e Morango | 12 |
