@@ -28,6 +28,7 @@ navbar-links:
     - Doces para casamentos: "https://www.instagram.com/?hl=en"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
+    - Teste: "teste.com"
   Autor: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -95,7 +96,9 @@ share-links-active:
   twitter: false
   facebook: true
   google: false
-  linkedin: true
+  linkedin: false
+  instagram: true
+  
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
