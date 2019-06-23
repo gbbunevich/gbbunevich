@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: Torres
+title: Torres Bolos e Doces
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: Para adoçar a sua vida!
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -22,7 +22,7 @@ description: A virtual proof that I'm awesome
 navbar-links:
   Sobre Min: "aboutme"
   Recursos:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - Insta: "https://www.instagram.com/?hl=en"
     - Learn markdown: "http://www.markdowntutorial.com/"
   Author's home: "http://deanattali.com"
 
